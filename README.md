@@ -1,5 +1,4 @@
-# Drum-kit
-
-If you love to play drum....
-bang on... Click here..
-https://shagunmishra.github.io/Drum-kit/
+#drum-kit
+everything happens with the music... 
+start playing and feel the magic in it. 
+click on the below link to play... 
